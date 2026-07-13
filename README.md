@@ -1,16 +1,200 @@
-## Hi there 👋
+<h1 align="center">
+Hi 👋, I'm Aryan Kumar Mishra
+</h1>
 
-<!--
-**Aryankum2028/Aryankum2028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Aspiring Software Engineer | Java Backend Developer 
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Java+%7C+Spring+Boot+%7C+MERN+Stack;LeetCode+%7C+DSA+%7C+System+Design;Currently+Building+Swasth+💪" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+```java
+public class Aryan {
+
+    String location = "India";
+
+    String currentFocus = "Building Swasth";
+
+    String learning = {
+        "Spring Boot",
+        "System Design",
+        "Microservices",
+        "DevOps"
+    };
+
+    String[] goals2026 = {
+        "Become a Backend Engineer",
+        "Build impactful products",
+        "Contribute to Open Source"
+    };
+}
+```
+
+---
+
+# 🚀 Current Project
+
+## 💪 Swasth
+
+An AI-powered Fitness & Wellness Platform built to help users understand and improve their health.
+
+### Features
+
+✔ Authentication
+
+✔ BMI Calculator
+
+✔ Body Fat Calculator
+
+✔ Daily Water Intake
+
+✔ Calorie Calculator
+
+✔ Goal Tracking
+
+✔ AI Health Insights *(Coming Soon)*
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryankum2028&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankum2028&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryankum2028&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryankum2028&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aryankum2028&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🌱 Master Backend
+- 💻 Build Production-level Full Stack Applications
+- 🚀 Learn AWS & Docker
+- 🧠 Solve 300+ DSA Problems
+- ⭐ Contribute to Open Source
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 💪 Swasth | AI Powered Fitness Platform |
+| 🎓 ScholarshipApp | Scholarship Management Backend |
+| 🛒 E-Commerce | Responsive E-Commerce Website |
+| 📚 LeetCode Solutions | Daily DSA Solutions |
+
+---
+
+# 📈 Coding Profiles
+
+<p>
+
+<a href="[https://leetcode.com/](https://leetcode.com/u/aryank2024/)">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+
+
+<a href="[https://codeforces.com/](https://codeforces.com/profile/aryankm2004)">
+<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/aryan-kumar-mishra-82b151326/)">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:aryankumarmishra2003@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Aryankum2028&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
