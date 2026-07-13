@@ -3,7 +3,7 @@ Hi 👋, I'm Aryan Kumar Mishra
 </h1>
 
 <h3 align="center">
-🚀 Aspiring Software Engineer | Java Backend Developer 
+🚀 Aspiring Software Engineer | Backend Developer 
 </h3>
 
 <p align="center">
@@ -77,31 +77,12 @@ An AI-powered Fitness & Wellness Platform built to help users understand and imp
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Aryankum2028&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryankum2028&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryankum2028&theme=tokyo-night"/>
 
 </p>
 
