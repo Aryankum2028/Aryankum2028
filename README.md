@@ -39,13 +39,9 @@ An AI-powered Fitness & Wellness Platform built to help users understand and imp
 
 ### Features
 
-✔ Authentication
-
 ✔ BMI Calculator
 
 ✔ Body Fat Calculator
-
-✔ Daily Water Intake
 
 ✔ Calorie Calculator
 
@@ -66,7 +62,7 @@ An AI-powered Fitness & Wellness Platform built to help users understand and imp
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 </p>
 
 ### Frontend
@@ -78,7 +74,7 @@ An AI-powered Fitness & Wellness Platform built to help users understand and imp
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
@@ -86,11 +82,7 @@ An AI-powered Fitness & Wellness Platform built to help users understand and imp
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryankum2028&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankum2028&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=Aryankum2028&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -110,16 +102,6 @@ An AI-powered Fitness & Wellness Platform built to help users understand and imp
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryankum2028&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aryankum2028&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -179,12 +161,6 @@ An AI-powered Fitness & Wellness Platform built to help users understand and imp
 </p>
 
 ---
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Aryankum2028&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
 
 <h3 align="center">
 
