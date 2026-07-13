@@ -14,28 +14,21 @@ Hi 👋, I'm Aryan Kumar Mishra
 
 # 👨‍💻 About Me
 
-```java
-public class Aryan {
+🎓 3rd Year B.Tech CSE Student at GLA University, Mathura 
 
-    String location = "India";
+💻 Passionate about Full Stack Development 
 
-    String currentFocus = "Building Swasth";
+☕ Primary language: Java
 
-    String learning = {
-        "Spring Boot",
-        "System Design",
-        "Microservices",
-        "DevOps"
-    };
+🧠 Solved 130+ LeetCode problems 
 
-    String[] goals2026 = {
-        "Become a Backend Engineer",
-        "Build impactful products",
-        "Contribute to Open Source"
-    };
-}
-```
+📈 Current LeetCode Contest Rating: 1490 
 
+⚡ Solved 200+ DSA Questions across coding platforms 
+
+🌱 Currently learning React and exploring modern web technologies
+
+🎯 Interested in building impactful and scalable applications
 ---
 
 # 🚀 Current Project
@@ -157,13 +150,13 @@ An AI-powered Fitness & Wellness Platform built to help users understand and imp
 
 <p>
 
-<a href="[https://leetcode.com/](https://leetcode.com/u/aryank2024/)">
+<a href="https://leetcode.com/u/aryank2024/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 
 
-<a href="[https://codeforces.com/](https://codeforces.com/profile/aryankm2004)">
+<a href="https://codeforces.com/profile/aryankm2004">
 <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
 </a>
 
@@ -175,7 +168,7 @@ An AI-powered Fitness & Wellness Platform built to help users understand and imp
 
 <p>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/aryan-kumar-mishra-82b151326/)">
+<a href="https://www.linkedin.com/in/aryan-kumar-mishra-82b151326/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
