@@ -82,7 +82,7 @@ An AI-powered Fitness & Wellness Platform built to help users understand and imp
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aryankum2028&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Aryankum2028&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </p>
 
